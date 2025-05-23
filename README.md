@@ -8,6 +8,10 @@ This beginner project is meant to be a quick learning experience on the idea of 
 
 ## How to Use
 
+1. Clone Repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the python file
+
 AI Model for Prediction:
 
 ```bash
@@ -26,3 +30,12 @@ To install dependencies, run the following:
 
 ```bash
 pip install -r requirements.txt
+
+## Model Performance
+
+Final Accuracy: 60%
+Confusion matrix included in jupyter notebooks file "Movie Genre Classifier.ipynb"
+
+## Tech Stack
+
+- Python, Scikit-learn, NLTK, Jupyter
