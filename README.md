@@ -30,6 +30,7 @@ To install dependencies, run the following:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Model Performance
 
