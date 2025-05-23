@@ -35,6 +35,7 @@ pip install -r requirements.txt
 ## Model Performance
 
 Final Accuracy: 60%
+
 Confusion matrix included in jupyter notebooks file "Movie Genre Classifier.ipynb"
 
 ## Tech Stack
